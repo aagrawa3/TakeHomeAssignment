@@ -15,16 +15,16 @@ Java 1.8
 
 File List
 ---------
-**TeachableLoginPage.java**	This file contains methods to enter details on web page and validate results.\
-**TeachableConstants.java**		This file contains xpaths of web elements.\
-**WebDriverSetup.java**			This file contains methods to initiate and setup Web Browser.\
-**TeachableUtils.java**			This file contains util methods like wait, wait for page load, etc.\
-**Initialise.java**				This file contains methods to init() and close() web driver.\
-**Log.java**						This file contains Logger methods to print log statements.\
-**RunReport.java**				This file contains method to prepare summary report of Test Cases.\
-**TestRunner.java**				This file contains main method to run test suit\
-**LoginTestCases.java**			This file contains all test cases related to Login functionality\
-**localConfig.properties**		This is a property file which contains file path to Chrome Driver
+**TeachableLoginPage.java** &nbsp &nbsp This file contains methods to enter details on web page and validate results.\
+**TeachableConstants.java** &nbsp &nbsp This file contains xpaths of web elements.\
+**WebDriverSetup.java** &nbsp &nbsp This file contains methods to initiate and setup Web Browser.\
+**TeachableUtils.java** &nbsp &nbsp This file contains util methods like wait, wait for page load, etc.\
+**Initialise.java** &nbsp &nbsp This file contains methods to init() and close() web driver.\
+**Log.java** &nbsp &nbsp This file contains Logger methods to print log statements.\
+**RunReport.java** &nbsp &nbsp This file contains method to prepare summary report of Test Cases.\
+**TestRunner.java** &nbsp &nbsp This file contains main method to run test suit\
+**LoginTestCases.java** &nbsp &nbsp This file contains all test cases related to Login functionality\
+**localConfig.properties** &nbsp &nbsp This is a property file which contains file path to Chrome Driver
 
 
 Prerequisites
