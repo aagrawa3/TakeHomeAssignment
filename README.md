@@ -24,7 +24,7 @@ Log.java						This file contains Logger methods to print log statements.\
 RunReport.java				This file contains method to prepare summary report of Test Cases.\
 TestRunner.java				This file contains main method to run test suit\
 LoginTestCases.java			This file contains all test cases related to Login functionality\
-localConfig.properties		This is a property file which contains file path to Chrome Driver\
+localConfig.properties		This is a property file which contains file path to Chrome Driver
 
 
 Prerequisites
