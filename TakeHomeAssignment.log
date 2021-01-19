@@ -1,36 +1,36 @@
-2021-01-18 22:27:59 INFO  Log:10 - Test Case - Login Functionality End to end
-2021-01-18 22:27:59 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
-2021-01-18 22:28:06 INFO  Log:10 - Login Successful
-2021-01-18 22:28:08 INFO  Log:10 - Clicked Log Out
-2021-01-18 22:28:09 INFO  Log:10 - Header text - Welcome to takehome is displayed as expected
-2021-01-18 22:28:09 INFO  Log:10 - ------------------------------------------
-2021-01-18 22:28:09 INFO  Log:10 - Test Case - Validating Create an Account link
-2021-01-18 22:28:09 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
-2021-01-18 22:28:13 INFO  Log:10 - Header text - Sign Up to takehome is displayed as expected
-2021-01-18 22:28:13 INFO  Log:10 - ------------------------------------------
-2021-01-18 22:28:13 INFO  Log:10 - Test Case - Entering invalid Password
-2021-01-18 22:28:13 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
-2021-01-18 22:28:16 INFO  Log:10 - Login is not Successful. Error message is displayed as expected
-2021-01-18 22:28:16 INFO  Log:10 - ------------------------------------------
-2021-01-18 22:28:16 INFO  Log:10 - Test Case - Entering invalid User ID
-2021-01-18 22:28:16 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
-2021-01-18 22:28:19 INFO  Log:10 - Login is not Successful. Error message is displayed as expected
-2021-01-18 22:28:19 INFO  Log:10 - ------------------------------------------
-2021-01-18 22:28:19 INFO  Log:10 - Test Case - Validating Forgot Password link
-2021-01-18 22:28:19 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
-2021-01-18 22:28:23 INFO  Log:10 - Header text - Reset Password is displayed as expected
-2021-01-18 22:28:23 INFO  Log:10 - ------------------------------------------
-2021-01-18 22:28:23 INFO  Log:10 - Test Case - Entering invalid User ID and Password
-2021-01-18 22:28:23 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
-2021-01-18 22:28:26 INFO  Log:10 - Login is not Successful. Error message is displayed as expected
-2021-01-18 22:28:26 INFO  Log:10 - ------------------------------------------
-2021-01-18 22:28:26 INFO  Log:10 - 
-2021-01-18 22:28:26 INFO  Log:10 - 
-2021-01-18 22:28:26 INFO  Log:10 -  ------- SUMMARY REPORT ------
-2021-01-18 22:28:26 INFO  Log:10 - |           Total #    |   6  |
-2021-01-18 22:28:26 INFO  Log:10 - |           Passed #   |   6  |
-2021-01-18 22:28:26 INFO  Log:10 - |           Failed #   |   0  |
-2021-01-18 22:28:26 INFO  Log:10 -  -----------------------------
-2021-01-18 22:28:26 INFO  Log:10 - 
-2021-01-18 22:28:26 INFO  Log:10 - 
-2021-01-18 22:28:26 INFO  Log:10 - ### All Test Cases passed successfully ###
+2021-01-18 23:12:48 INFO  Log:10 - Test Case - Login Functionality End to end
+2021-01-18 23:12:48 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
+2021-01-18 23:12:54 INFO  Log:10 - Login Successful
+2021-01-18 23:12:56 INFO  Log:10 - Clicked Log Out
+2021-01-18 23:12:57 INFO  Log:10 - Header text - Welcome to takehome is displayed as expected
+2021-01-18 23:12:57 INFO  Log:10 - ------------------------------------------
+2021-01-18 23:12:57 INFO  Log:10 - Test Case - Validating Create an Account link
+2021-01-18 23:12:57 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
+2021-01-18 23:13:00 INFO  Log:10 - Header text - Sign Up to takehome is displayed as expected
+2021-01-18 23:13:00 INFO  Log:10 - ------------------------------------------
+2021-01-18 23:13:00 INFO  Log:10 - Test Case - Entering invalid Password
+2021-01-18 23:13:00 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
+2021-01-18 23:13:04 INFO  Log:10 - Login is not Successful. Error message is displayed as expected
+2021-01-18 23:13:04 INFO  Log:10 - ------------------------------------------
+2021-01-18 23:13:04 INFO  Log:10 - Test Case - Entering invalid User ID
+2021-01-18 23:13:04 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
+2021-01-18 23:13:07 INFO  Log:10 - Login is not Successful. Error message is displayed as expected
+2021-01-18 23:13:07 INFO  Log:10 - ------------------------------------------
+2021-01-18 23:13:07 INFO  Log:10 - Test Case - Validating Forgot Password link
+2021-01-18 23:13:07 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
+2021-01-18 23:13:10 INFO  Log:10 - Header text - Reset Password is displayed as expected
+2021-01-18 23:13:10 INFO  Log:10 - ------------------------------------------
+2021-01-18 23:13:10 INFO  Log:10 - Test Case - Entering invalid User ID and Password
+2021-01-18 23:13:10 INFO  Log:10 - Navigating to URL...https://takehome.zeachable.com
+2021-01-18 23:13:13 INFO  Log:10 - Login is not Successful. Error message is displayed as expected
+2021-01-18 23:13:13 INFO  Log:10 - ------------------------------------------
+2021-01-18 23:13:13 INFO  Log:10 - 
+2021-01-18 23:13:13 INFO  Log:10 - 
+2021-01-18 23:13:13 INFO  Log:10 -  ------- SUMMARY REPORT ------
+2021-01-18 23:13:13 INFO  Log:10 - |           Total #    |   6  |
+2021-01-18 23:13:13 INFO  Log:10 - |           Passed #   |   6  |
+2021-01-18 23:13:13 INFO  Log:10 - |           Failed #   |   0  |
+2021-01-18 23:13:13 INFO  Log:10 -  -----------------------------
+2021-01-18 23:13:13 INFO  Log:10 - 
+2021-01-18 23:13:13 INFO  Log:10 - 
+2021-01-18 23:13:13 INFO  Log:10 - ### All Test Cases passed successfully ###
