@@ -10,7 +10,7 @@ Create Automation test cases for testing Login functionality of application. Aut
 
 Language Used
 ------------
-Java
+Java 1.8
 
 
 File List
